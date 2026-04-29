@@ -84,6 +84,7 @@ shown in the image above.
 
 The images below are taken from . In Guided mode you get the same options on multiple "pages".
 Create a new virtual machine with the menu option Machine → New… (Ctrl-N). 
+
 <img src="https://i.imgur.com/bvvYkdm.png" height="50%" width="50%" alt="properties"/>
   
  - Name the virtual machine Server_VM.
