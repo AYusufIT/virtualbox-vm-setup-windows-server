@@ -11,7 +11,7 @@ The goal is to simulate a real-world environment where a system administrator pr
 
 
 <h2> Technologies Used</h2>
-
+i
 - Oracle VirtualBox (v7)
 - Windows Server 2025 (ISO)
 - Virtual Networking (NAT Network + DHCP)
@@ -42,7 +42,7 @@ You install this after VirtualBox is installed. The Extension Pack provides addi
 hardware technology.
 
 -  Start Oracle VM VirtualBox and select <img src="https://i.imgur.com/4EhMRV3.png" height="10%" width="10%" alt=" expert mode"/>(This will make it easier to understand what you are doing). </p>
-     <img src="https://i.imgur.com/h4RY1b0.png" height="70%" width="70%" alt="virtualbox "/>
+     <img src="https://i.imgur.com/Tai91Vh.png" height="70%" width="70%" alt="virtualbox "/>
      
  Note: For PC (not applicable to Mac): Make sure that Intel's/AMD's virtualization technology (VT-x/AMD-V) is
 enabled in the BIOS/UEFI-Setup on your physical machine. See instructions on the last section of this
